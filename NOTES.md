@@ -6,8 +6,7 @@ Working notes kept while pairing.
 
 Credit a pairing partner on a commit:
 
-Co-authored-by: Name <ID+username@users.noreply.github.com>
-```
+
 
 The `ID+username@users.noreply.github.com` form links the co-author to their
 GitHub account even when that account keeps its email addresses private, which
