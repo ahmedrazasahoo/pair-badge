@@ -7,6 +7,9 @@ Working notes kept while pairing.
 Credit a pairing partner on a commit:
 
 ```
+```
+Co-authored-by: Name <ID+username@users.noreply.github.com>
+```
 Co-authored-by: Name <ID+username@users.noreply.github.com>
 ```
 
