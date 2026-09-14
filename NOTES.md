@@ -18,3 +18,43 @@ A `Co-authored-by:` trailer is plain text in a commit message. It needs no
 authentication from the co-author, so pairing never requires anyone to hand
 over a token. If a token does get shared, revoke it at
 https://github.com/settings/tokens and issue a fresh one.
+
+A `Co-authored-by:` trailer is plain text in a commit message. It needs no
+authentication from the co-author, so pairing never requires anyone to hand
+over a token. If a token does get shared, revoke it at
+https://github.com/settings/tokens and issue a fresh one.
+
+A `Co-authored-by:` trailer is plain text in a commit message. It needs no
+authentication from the co-author, so pairing never requires anyone to hand
+over a token. If a token does get shared, revoke it at
+https://github.com/settings/tokens and issue a fresh one.
+
+A `Co-authored-by:` trailer is plain text in a commit message. It needs no
+authentication from the co-author, so pairing never requires anyone to hand
+over a token. If a token does get shared, revoke it at
+https://github.com/settings/tokens and issue a fresh one.
+
+A `Co-authored-by:` trailer is plain text in a commit message. It needs no
+authentication from the co-author, so pairing never requires anyone to hand
+over a token. If a token does get shared, revoke it at
+https://github.com/settings/tokens and issue a fresh one.
+
+A `Co-authored-by:` trailer is plain text in a commit message. It needs no
+authentication from the co-author, so pairing never requires anyone to hand
+over a token. If a token does get shared, revoke it at
+https://github.com/settings/tokens and issue a fresh one.
+
+A `Co-authored-by:` trailer is plain text in a commit message. It needs no
+authentication from the co-author, so pairing never requires anyone to hand
+over a token. If a token does get shared, revoke it at
+https://github.com/settings/tokens and issue a fresh one.
+
+A `Co-authored-by:` trailer is plain text in a commit message. It needs no
+authentication from the co-author, so pairing never requires anyone to hand
+over a token. If a token does get shared, revoke it at
+https://github.com/settings/tokens and issue a fresh one.
+
+A `Co-authored-by:` trailer is plain text in a commit message. It needs no
+authentication from the co-author, so pairing never requires anyone to hand
+over a token. If a token does get shared, revoke it at
+https://github.com/settings/tokens and issue a fresh one.
